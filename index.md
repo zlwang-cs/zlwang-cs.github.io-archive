@@ -27,7 +27,8 @@ Before joining UCSD, I received my B.S. in Computer Science from Peking Universi
 
 ## Experience
 
-* **Microsoft Research Asia**, Research Intern at NLC Group with Dr. Lei Cui, 2020.9 - present  
+* **Microsoft Research Asia**, Research Intern at NLC Group, 2020.9 - present  
+  * Advisor: Dr. Lei Cui
   * Extraction of Reading Order for Document Image Understanding
   * Pretaining of Language Model with Reading Order Dataset
 
@@ -35,7 +36,8 @@ Before joining UCSD, I received my B.S. in Computer Science from Peking Universi
   * Extraction of Form Structure for General Form Understanding
   * Multitask Training of Word Grouping and Relation Extraction in Form Pages
 
-* **University of Illinois, Urbana-Champaign**, Research Assistant with Prof. Kevin Chang, 2019.6 - 2019.10
+* **University of Illinois, Urbana-Champaign**, Research Assistant, 2019.6 - 2019.10
+  * Advisor: Prof. Kevin Chang
   * Evaluation of Semantic Capacity for Scientific Terms
 
 * **Peking University**, Research Assistant at One Lab with Prof. Xiaojun Wan, 2017.9 - 2020.6
