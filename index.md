@@ -28,7 +28,7 @@ Before joining UCSD, I received my B.S. in Computer Science from Peking Universi
 ## Experience
 
 * **Microsoft Research Asia**, 2020.9 - present
-  * *Research Intern at NLC Group with Dr. Lei Cui*
+  Research Intern at NLC Group with Dr. Lei Cui
   * Extraction of Reading Order for Document Image Understanding
   * Pretaining of Language Model with Reading Order Dataset
 
