@@ -32,10 +32,6 @@ Before joining UCSD, I received my B.S. in Computer Science from Peking Universi
   * Extraction of Reading Order for Document Image Understanding
   * Pretaining of Language Model with Reading Order Dataset
 
-* **Sensetime Company**, Research Intern at OCR Group, 2019.11 - 2020.9
-  * Extraction of Form Structure for General Form Understanding
-  * Multitask Training of Word Grouping and Relation Extraction in Form Pages
-
 * **University of Illinois, Urbana-Champaign**, Research Assistant, 2019.6 - 2019.10
   * Advisor: Prof. Kevin Chang
   * Evaluation of Semantic Capacity for Scientific Terms
