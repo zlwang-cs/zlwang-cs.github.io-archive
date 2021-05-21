@@ -4,11 +4,11 @@ layout: about
 
 # About Me
 
-Welcome. I am a Ph.D. student at University of California, San Diego advised by Prof. Jingbo Shang.
+Welcome. I am a Ph.D. student at University of California, San Diego advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io).
 
 My research focuses on Natural Language Processing and Data Mining. I am interested in multimodality and language modeling.
 
-Before joining UCSD, I received my B.S. in Computer Science from Peking University, where I was advised by Prof. Xiaojun Wan.
+Before joining UCSD, I received my B.S. in Computer Science from Peking University, where I was advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io).
 
 <br/>
 
