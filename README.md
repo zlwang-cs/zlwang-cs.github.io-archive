@@ -7,7 +7,7 @@ Based on Chester How's tale-theme(https://github.com/chesterhow/tale) with a few
 * Upgrading awesome fonts and modifying some layouts.
 * Use "About" as main.
   * It can be written in simple resume form.
-* Change "Post" to "Project Portfolio"
+* Change "Post" to "Project publication"
   * You can manage your project experience just like running a blog.
 
 
@@ -34,9 +34,9 @@ Based on Chester How's tale-theme(https://github.com/chesterhow/tale) with a few
 ap
 ├── _includes                  # theme includes
 ├── _layouts                   # theme layouts (see below for details)
-├── _posts                     # Project & Portfolio posts
+├── _posts                     # Project & publication posts
 ├── _sass                      # Sass partials 
-├── portfolio                  # Main page for "portfolio"
+├── publication                  # Main page for "publication"
 ├── assets
 |  ├── css                     # font-awesome and main css
 |  ├── fonts                   # Font-Awesome
@@ -108,13 +108,13 @@ social:
 ```
 
 
-## Portfolio Schema
+## publication Schema
 ```markdown
 ---
 layout: post
-title:  [Project title to show in portfolio list]
-info: [A brief introduction to show in portfolio list]
-tech: [The technologies used in the project to show in portfolio list]
+title:  [Project title to show in publication list]
+info: [A brief introduction to show in publication list]
+tech: [The technologies used in the project to show in publication list]
 type: [Property of the project to be displayed in front of the project's info(toy or company name)]
 ---
 ```
