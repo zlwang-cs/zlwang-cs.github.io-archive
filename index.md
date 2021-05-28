@@ -27,7 +27,10 @@ Before joining UCSD, I received my B.S. in Computer Science from Peking Universi
 
 ## Experience
 
-* **Microsoft Research Asia**, Research Intern at NLC Group, 2020.9 - present  
+* **Adobe Research**, Research Intern at Document Intelligence Group, 2021.6 - 
+  * Advisor: Dr. Vlad Morariu
+
+* **Microsoft Research Asia**, Research Intern at NLC Group, 2020.9 - 2021.3
   * Advisor: Dr. Lei Cui
   * Extraction of Reading Order for Document Image Understanding
   * Pretaining of Language Model with Reading Order Dataset
