@@ -8,7 +8,7 @@ Welcome. I am a Ph.D. student at [University of California](https://ucsd.edu), S
 
 My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich informaiton and releasing the potentials in the multi-modality and pre-trained language models.
 
-Before joining UC San Diego, I received my B.S. in Computer Science from [Peking University](https://www.pku.edu.cn), where I was advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io).
+Before joining UC San Diego, I received my B.S. in Computer Science from [Peking University](https://english.pku.edu.cn), where I was advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io).
 
 <br/>
 
@@ -50,16 +50,12 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 <br/>
 
 ## Selected Pulication
-* [LayoutReader: Pre-training of Text and Layout for Reading Order Detection](https://arxiv.org/pdf/2108.11591)
+* **LayoutReader: Pre-training of Text and Layout for Reading Order Detection** [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
   * Zilong Wang, Yiheng Xu, Lei Cui, Jingbo Shang, Furu Wei; **EMNLP** 2021
-  * LayoutReader: [CODE](https://github.com/microsoft/unilm/tree/master/layoutreader)
-  * ReadingBank: [CODE](https://github.com/doc-analysis/ReadingBank)
-* [DocStruct: A Multimodal Method to Extract Hierarchy Structure in Document for General Form Understanding](https://arxiv.org/pdf/2010.11685)
+* **DocStruct: A Multimodal Method to Extract Hierarchy Structure in Document for General Form Understanding** [[Paper]](https://arxiv.org/pdf/2010.11685) [CODE] (comming soon...)
   * Zilong Wang, Mingjie Zhan, Ding Liang; **EMNLP** (Findings) 2020
-  * [CODE] (comming soon...)
-* [Exploring Semantic Capacity of Terms](https://arxiv.org/pdf/2010.01898)
+* **Exploring Semantic Capacity of Terms** [[Paper]](https://arxiv.org/pdf/2010.01898) [[CODE]](https://github.com/c3sr/semantic-capacity)
   * Jie Huang\*, Zilong Wang\*, Kevin Chen-Chuan Chang, Wen-mei Hwu, Jinjun Xiong; **EMNLP** 2020
-  * [[CODE]](https://github.com/c3sr/semantic-capacity)
   * \* Asterisk indicates equal contribution.
 
 <br/>
