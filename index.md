@@ -23,7 +23,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
   * Advisor: [Prof. Xiaojun Wan](https://wanxiaojun.github.io)
   * Ourstanding Graduate of Beijing City and Peking University
 
-<br/>
+<!-- <br/> -->
 
 ## Experience
 
@@ -47,7 +47,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
   * Sentiment Analysis and Emotion Detection in Multi-Party Dialogues
   * Emotion Detection in Multimodality Scenarios
 
-<br/>
+<!-- <br/> -->
 
 ## Selected Publications
 * **LayoutReader: Pre-training of Text and Layout for Reading Order Detection**
@@ -61,7 +61,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
   * \* Asterisk indicates equal contribution.
   * [[Paper]](https://arxiv.org/pdf/2010.01898) [[Code]](https://github.com/c3sr/semantic-capacity)
 
-<br/>
+<!-- <br/> -->
 
 ## Awards
 
@@ -72,7 +72,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 * Merit Student (top 5%)
 * Kwang-Hua Scholarship
 
-<br/>
+<!-- <br/> -->
 
 ## Misc.
 
