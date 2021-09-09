@@ -23,7 +23,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
   * Advisor: [Prof. Xiaojun Wan](https://wanxiaojun.github.io)
   * Ourstanding Graduate of Beijing City and Peking University
 
-<!-- <br/> -->
+<br/>
 
 ## Experience
 
@@ -47,21 +47,21 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
   * Sentiment Analysis and Emotion Detection in Multi-Party Dialogues
   * Emotion Detection in Multimodality Scenarios
 
-<!-- <br/> -->
+<br/>
 
 ## Selected Publications
-* **LayoutReader: Pre-training of Text and Layout for Reading Order Detection**
-  * **Zilong Wang**, Yiheng Xu, Lei Cui, Jingbo Shang, Furu Wei; EMNLP 2021
-  * [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
-* **DocStruct: A Multimodal Method to Extract Hierarchy Structure in Document for General Form Understanding** 
-  * **Zilong Wang**, Mingjie Zhan, Ding Liang; EMNLP (Findings) 2020
-  * [[Paper]](https://arxiv.org/pdf/2010.11685) [[Code]](https://github.com/zlwang-cs/DocStruct)
-* **Exploring Semantic Capacity of Terms**
-  * Jie Huang\*, **Zilong Wang\***, Kevin Chen-Chuan Chang, Wen-mei Hwu, Jinjun Xiong; EMNLP 2020
-  * \* Asterisk indicates equal contribution.
-  * [[Paper]](https://arxiv.org/pdf/2010.01898) [[Code]](https://github.com/c3sr/semantic-capacity)
+* LayoutReader: Pre-training of Text and Layout for Reading Order Detection
+  **Zilong Wang**, Yiheng Xu, Lei Cui, Jingbo Shang, Furu Wei
+  EMNLP 2021 [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
+* DocStruct: A Multimodal Method to Extract Hierarchy Structure in Document for General Form Understanding
+  **Zilong Wang**, Mingjie Zhan, Ding Liang
+  EMNLP Findings 2020 [[Paper]](https://arxiv.org/pdf/2010.11685) [[Code]](https://github.com/zlwang-cs/DocStruct)
+* Exploring Semantic Capacity of Terms
+  Jie Huang\*, **Zilong Wang\***, Kevin Chen-Chuan Chang, Wen-mei Hwu, Jinjun Xiong
+  \* Asterisk indicates equal contribution.
+  EMNLP 2020 [[Paper]](https://arxiv.org/pdf/2010.01898) [[Code]](https://github.com/c3sr/semantic-capacity)
 
-<!-- <br/> -->
+<br/>
 
 ## Awards
 
@@ -72,7 +72,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 * Merit Student (top 5%)
 * Kwang-Hua Scholarship
 
-<!-- <br/> -->
+<br/>
 
 ## Misc.
 
