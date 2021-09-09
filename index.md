@@ -49,7 +49,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 
 <br/>
 
-## Selected Pulication
+## Selected Publications
 * **LayoutReader: Pre-training of Text and Layout for Reading Order Detection**
   * **Zilong Wang**, Yiheng Xu, Lei Cui, Jingbo Shang, Furu Wei; **EMNLP** 2021
   * [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
