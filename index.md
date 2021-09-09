@@ -51,15 +51,15 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 
 ## Selected Pulication
 * **LayoutReader: Pre-training of Text and Layout for Reading Order Detection**
-  * [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
   * **Zilong Wang**, Yiheng Xu, Lei Cui, Jingbo Shang, Furu Wei; **EMNLP** 2021
+  * [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
 * **DocStruct: A Multimodal Method to Extract Hierarchy Structure in Document for General Form Understanding** 
-  * [[Paper]](https://arxiv.org/pdf/2010.11685) [[CODE]](https://github.com/zlwang-cs/DocStruct)
   * **Zilong Wang**, Mingjie Zhan, Ding Liang; **EMNLP** (Findings) 2020
+  * [[Paper]](https://arxiv.org/pdf/2010.11685) [[Code]](https://github.com/zlwang-cs/DocStruct)
 * **Exploring Semantic Capacity of Terms**
-  * [[Paper]](https://arxiv.org/pdf/2010.01898) [[CODE]](https://github.com/c3sr/semantic-capacity)
   * Jie Huang\*, **Zilong Wang\***, Kevin Chen-Chuan Chang, Wen-mei Hwu, Jinjun Xiong; **EMNLP** 2020
   * \* Asterisk indicates equal contribution.
+  * [[Paper]](https://arxiv.org/pdf/2010.01898) [[Code]](https://github.com/c3sr/semantic-capacity)
 
 <br/>
 
@@ -71,3 +71,9 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 * Junyuan Scholarship
 * Merit Student (top 5%)
 * Kwang-Hua Scholarship
+
+<br/>
+
+## Misc.
+
+I like all outdoor activities! Camping, hiking, travelling... I am also a beginner of photography.
