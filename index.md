@@ -27,7 +27,10 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 
 ## Experience
 
-* **Adobe Research**, Research Intern at Document Intelligence Group, 2021.6 - present
+* **Google Research**, Research Intern, *Coming Summer*
+  * Advisor: Dr. Sandeep Tata
+
+* **Adobe Research**, Research Intern at Document Intelligence Group, 2021.6 - 2021.9
   * Advisor: Dr. Vlad Morariu
 
 * **Microsoft Research Asia**, Research Intern at NLC Group, 2020.9 - 2021.3
