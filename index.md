@@ -21,7 +21,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 * **Peking University**, 2016.9 - 2020.7
   * B.S. in Computer Science
   * Advisor: [Prof. Xiaojun Wan](https://wanxiaojun.github.io)
-  * Ourstanding Graduate of Beijing City and Peking University
+  * Outstanding Graduate of Beijing City and Peking University
 
 <br/>
 
