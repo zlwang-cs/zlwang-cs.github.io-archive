@@ -82,4 +82,4 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 
 ## Misc.
 
-I like all outdoor activities! Camping, hiking, travelling... I am also a beginner of photography.
+I like all outdoor activities! Camping, hiking, travelling... I am also [a beginner of photography](https://www.instagram.com/zlw.lens/).
