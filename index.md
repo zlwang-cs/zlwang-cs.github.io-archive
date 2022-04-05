@@ -4,7 +4,7 @@ layout: about
 
 # About Me
 
-Welcome. I am a Ph.D. student at [University of California](https://ucsd.edu), San Diego advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io).
+Welcome. I am a Ph.D. student at [University of California, San Diego](https://ucsd.edu) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io).
 
 My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich informaiton and releasing the potentials in the multi-modality and pre-trained language models.
 
@@ -53,6 +53,9 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 <br/>
 
 ## Selected Publications
+* Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework
+  * **Zilong Wang**, Jingbo Shang
+  * ACL Findings 2022
 * LayoutReader: Pre-training of Text and Layout for Reading Order Detection
   * **Zilong Wang**, Yiheng Xu, Lei Cui, Jingbo Shang, Furu Wei
   * EMNLP 2021 [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
