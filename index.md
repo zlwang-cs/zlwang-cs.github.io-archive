@@ -6,7 +6,7 @@ layout: about
 
 Welcome. I am a Ph.D. student at [University of California, San Diego](https://ucsd.edu) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io).
 
-My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich informaiton and releasing the potentials in the multi-modality and pre-trained language models.
+My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich information and releasing the potential in the multi-modality and pre-trained language models.
 
 Before joining UC San Diego, I received my B.S. in Computer Science from [Peking University](https://english.pku.edu.cn), where I was advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io).
 
@@ -36,7 +36,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 * **Microsoft Research Asia**, Research Intern at NLC Group, 2020.9 - 2021.3
   * Advisor: Dr. Lei Cui
   * Extraction of Reading Order for Document Image Understanding
-  * Pretaining of Language Model with Reading Order Dataset
+  * Pretraining of Language Model with Reading Order Dataset
 
 * **University of Illinois, Urbana-Champaign**, Research Assistant, 2019.6 - 2019.10
   * Advisor: Prof. Kevin Chang
@@ -55,7 +55,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 ## Selected Publications
 * Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework
   * **Zilong Wang**, Jingbo Shang
-  * ACL Findings 2022
+  * ACL Findings 2022 [[Paper]](https://arxiv.org/pdf/2204.05819) [[Code]](https://github.com/zlwang-cs/LASER-release)
 * LayoutReader: Pre-training of Text and Layout for Reading Order Detection
   * **Zilong Wang**, Yiheng Xu, Lei Cui, Jingbo Shang, Furu Wei
   * EMNLP 2021 [[Paper]](https://arxiv.org/pdf/2108.11591) [[Code]](https://github.com/microsoft/unilm/tree/master/layoutreader) [[Dataset]](https://github.com/doc-analysis/ReadingBank)
