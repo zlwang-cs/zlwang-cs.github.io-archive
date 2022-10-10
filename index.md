@@ -8,7 +8,7 @@ Welcome! I am a Ph.D. student at [University of California, San Diego](https://u
 
 My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich information and releasing the potential in the multi-modality and pre-trained language models.
 
-Currently, my major focus is about the Visually-rich Document Understanding. I would like to extract the essential information within the documents and, meanwhile, reduce the human efforts involved through weak-, distant-, or un- supervised learning.
+Currently, my major focus is about the Visually-rich Document Understanding. I would like to extract the essential information within the documents and, meanwhile, reduce the human efforts involved through weak, distant, or even no supervision.
 
 Before joining UC San Diego, I received my B.S. in Computer Science from [Peking University](https://english.pku.edu.cn), where I was advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io).
 
