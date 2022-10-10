@@ -7,7 +7,7 @@ google_analytics: UA-155279785-1 # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Zilong Wang
-  desc: A CS PhD student at UCSD
+  desc: Ph.D. student at UC San Diego
   email: zlwang@ucsd.edu
   selfie: assets/img/profile.jpg
 

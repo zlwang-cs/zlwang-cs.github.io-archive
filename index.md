@@ -4,9 +4,11 @@ layout: about
 
 # About Me
 
-Welcome. I am a Ph.D. student at [University of California, San Diego](https://ucsd.edu) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io).
+Welcome! I am a Ph.D. student at [University of California, San Diego](https://ucsd.edu) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io).
 
 My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich information and releasing the potential in the multi-modality and pre-trained language models.
+
+Currently, my major focus is about the Visually-rich Document Understanding. I would like to extract the essential information within the documents and, meanwhile, reduce the human efforts involved through weak-, distant-, or un- supervised learning.
 
 Before joining UC San Diego, I received my B.S. in Computer Science from [Peking University](https://english.pku.edu.cn), where I was advised by [Prof. Xiaojun Wan](https://wanxiaojun.github.io).
 
@@ -27,28 +29,28 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 
 ## Experience
 
-* **Google Research**, Research Intern, *Coming Summer*
+* **Google Research**, Research Intern, 2022.6 - 2022.9
   * Advisor: Dr. Sandeep Tata
 
 * **Adobe Research**, Research Intern at Document Intelligence Group, 2021.6 - 2021.9
   * Advisor: Dr. Vlad Morariu
+  * A multi-modal pre-trained language modeling leveraging hierarchical structure in visully-rich documents.
 
 * **Microsoft Research Asia**, Research Intern at NLC Group, 2020.9 - 2021.3
   * Advisor: Dr. Lei Cui
-  * Extraction of Reading Order for Document Image Understanding
-  * Pretraining of Language Model with Reading Order Dataset
+  * Extraction of reading order for document image understanding
+  * Pre-training of language model with reading order dataset
 
 * **University of Illinois, Urbana-Champaign**, Research Assistant, 2019.6 - 2019.10
   * Advisor: Prof. Kevin Chang
-  * Evaluation of Semantic Capacity for Scientific Terms
+  * Evaluation of semantic capacity for scientific terms
 
 * **Sensetime Company**, Research Intern at OCR Group, 2019.11 - 2020.9
-  * Extraction of Form Structure for General Form Understanding
-  * Multitask Training of Word Grouping and Relation Extraction in Form Pages
+  * Extraction of form structure for general form understanding
 
 * **Peking University**, Research Assistant at One Lab with Prof. Xiaojun Wan, 2017.9 - 2020.6
-  * Sentiment Analysis and Emotion Detection in Multi-Party Dialogues
-  * Emotion Detection in Multimodality Scenarios
+  * Sentiment analysis and emotion detection in multi-party dialogues
+  * Emotion detection in multimodality scenarios
 
 <br/>
 
