@@ -34,7 +34,7 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 
 * **Adobe Research**, Research Intern at Document Intelligence Group, 2021.6 - 2021.9
   * Advisor: Dr. Vlad Morariu
-  * A multi-modal pre-trained language modeling leveraging hierarchical structure in visully-rich documents.
+  * A multi-modal pre-trained language modeling leveraging hierarchical structure in visually-rich documents.
 
 * **Microsoft Research Asia**, Research Intern at NLC Group, 2020.9 - 2021.3
   * Advisor: Dr. Lei Cui
