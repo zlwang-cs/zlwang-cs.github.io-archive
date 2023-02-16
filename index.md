@@ -57,10 +57,10 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 ## Selected Publications
 * MGDoc: Pre-training with Multi-granular Hierarchy for Document Image Understanding
   * **Zilong Wang**, Jiuxiang Gu, Chris Tensmeyer, Nikolaos Barmpalios, Ani Nenkova, Tong Sun, Jingbo Shang and Vlad I. Morariu
-  * EMNLP 2022
+  * EMNLP 2022 [[Paper]](https://arxiv.org/pdf/2211.14958)
 * Formulating Few-shot Fine-tuning Towards Language Model Pre-training: A Pilot Study on Named Entity Recognition
   * Zihan Wang, Kewen Zhao, **Zilong Wang**, Jingbo Shang
-  * EMNLP Findings 2022
+  * EMNLP Findings 2022 [[Paper]](https://arxiv.org/pdf/2205.11799)
 * Towards Few-shot Entity Recognition in Document Images: A Label-aware Sequence-to-Sequence Framework
   * **Zilong Wang**, Jingbo Shang
   * ACL Findings 2022 [[Paper]](https://arxiv.org/pdf/2204.05819) [[Code]](https://github.com/zlwang-cs/LASER-release)
