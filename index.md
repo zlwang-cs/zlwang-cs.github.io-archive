@@ -6,7 +6,7 @@ layout: about
 
 Welcome! I am a Ph.D. student at [University of California, San Diego](https://ucsd.edu) advised by [Prof. Jingbo Shang](https://shangjingbo1226.github.io).
 
-My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich information and releasing the potential in the multi-modality and pre-trained language models.
+My research focuses on Natural Language Processing and Data Mining. I am interested in leveraging rich information and releasing the potential in the multi-modality and large language models.
 
 Currently, my major focus is about the Visually-rich Document Understanding. I would like to extract the essential information within the documents and, meanwhile, reduce the human efforts involved through weak, distant, or even no supervision.
 
@@ -29,8 +29,12 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 
 ## Experience
 
+* **Google Cloud**, Research Intern, 2023.4 - 2023.9
+  * Advisor: Dr. Chen-Yu Lee
+
 * **Google Research**, Research Intern, 2022.6 - 2022.9
   * Advisor: Dr. Sandeep Tata
+  * A benchmark for Visually-rich Document Understanding [GitHub Repo](https://github.com/google-research-datasets/vrdu).
 
 * **Adobe Research**, Research Intern at Document Intelligence Group, 2021.6 - 2021.9
   * Advisor: Dr. Vlad Morariu
@@ -55,6 +59,9 @@ Before joining UC San Diego, I received my B.S. in Computer Science from [Peking
 <br/>
 
 ## Selected Publications
+* VRDU: A Benchmark for Visually-rich Document Understanding
+  * **Zilong Wang**, Yichao Zhou, Wei Wei, Chen-Yu Lee, Sandeep Tata
+  * KDD 2023 [[Paper]](https://arxiv.org/abs/2211.15421) [[Code]](https://github.com/google-research/google-research/tree/master/vrdu) [[Data]](https://github.com/google-research-datasets/vrdu)
 * MGDoc: Pre-training with Multi-granular Hierarchy for Document Image Understanding
   * **Zilong Wang**, Jiuxiang Gu, Chris Tensmeyer, Nikolaos Barmpalios, Ani Nenkova, Tong Sun, Jingbo Shang and Vlad I. Morariu
   * EMNLP 2022 [[Paper]](https://arxiv.org/pdf/2211.14958)
